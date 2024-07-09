@@ -1,13 +1,22 @@
 # Microsoft-Excel-Projects
 
 Table of Contents
+
+
 Overview
+
 Features
+
 Installation
+
 Usage
+
 Screenshots
+
 Contributing
+
 License
+
 Contact
 
 Overview
